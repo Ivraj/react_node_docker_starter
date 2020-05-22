@@ -1,6 +1,7 @@
 # react_node_docker_starter
 
-A starter repo for a CRA frontend with a Node.js backend, both dockerized with a docker-compose file.
+A starter repo for a CRA frontend with a Node.js backend. Both are run in
+separate docker containers and controlled with docker-compose.
 
 ## Getting Started
 
